@@ -1,2 +1,2 @@
 # BRENT-Model
-Predictive Model for BRENT price movements 
+Predictive Model for Brent Crude Oil price movements; python-coded using google colab notebook
